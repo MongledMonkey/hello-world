@@ -10,5 +10,7 @@ class Test
 		String a = new String( "test" );
 		System.out.println( "This is a " + a );
 		System.out.println( "bug382" );
+		System.out.println( "but312" );
+
   }
 }
